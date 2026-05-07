@@ -2,6 +2,9 @@
 
 WinForms client that connects to the greenhouse controller over TCP and sends/receives settings.
 
+<img width="444" height="430" alt="image" src="https://github.com/user-attachments/assets/26daa42c-dfae-4f91-a5d1-c137c981515a" />
+
+
 ## Run
 
 - Open `Greenhouse Control FRM.slnx` in Rider or Visual Studio.
