@@ -338,6 +338,7 @@ partial class MainWindow
         Controls.Add(connection);
         ForeColor = System.Drawing.SystemColors.ControlText;
         Icon = ((System.Drawing.Icon)resources.GetObject("$this.Icon"));
+        FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
         MaximizeBox = false;
         Text = "Greenhouse Control FRM - Disconnected.";
         Load += MainWindow_Load;
